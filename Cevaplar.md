@@ -1,4 +1,4 @@
-<strong>Soru 1 : </strong><em><strong>Bilişim şirketimiz de çalışmak ister misin?</strong></em>
+<strong>Soru 1 : </strong><strong>Bilişim şirketimiz de çalışmak ister misin?</strong>
 
 http://85.111.95.17/c76b3bd64481c9f391372497fa7c9275/ verilen linke giriş yaptığımızda karşımızı bir şirket,çalışanlar,sunduğu hizmetler karşılıyor. Siteyi kurcalarken kaynak kodunda<img class="alignnone size-full wp-image-84" src="https://dogagelisli.files.wordpress.com/2019/01/dirb3.png" alt="dirb3" width="971" height="377" />
 
