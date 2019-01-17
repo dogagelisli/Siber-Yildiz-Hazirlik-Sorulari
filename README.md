@@ -1,0 +1,1 @@
+# Siber-Yildiz-Hazirlik-Sorulari
