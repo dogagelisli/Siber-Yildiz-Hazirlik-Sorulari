@@ -23,6 +23,4 @@ Dizine gittiğimizde karşımıza bir algoritma geldi <img class="alignnone size
 Split işlemini gerçekleştirdikten sonra <strong>87habythi15ng151.php </strong>md5e çevirmek kalıyordu.
 
 <strong>Flag : 28833db32bb4def17138de776fe2156a</strong>
-=======
-# Siber-Yildiz-Hazirlik-Sorulari
->>>>>>> a2335cf813abf341105ea0e131b8dcc53d04a073
+
