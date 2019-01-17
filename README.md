@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <strong>Soru 1 : </strong><em><strong>Bilişim şirketimiz de çalışmak ister misin?</strong></em>
 
 http://85.111.95.17/c76b3bd64481c9f391372497fa7c9275/ verilen linke giriş yaptığımızda karşımızı bir şirket,çalışanlar,sunduğu hizmetler karşılıyor. Siteyi kurcalarken kaynak kodunda<img class="alignnone size-full wp-image-84" src="https://dogagelisli.files.wordpress.com/2019/01/dirb3.png" alt="dirb3" width="971" height="377" />
@@ -23,3 +24,6 @@ Dizine gittiğimizde karşımıza bir algoritma geldi <img class="alignnone size
 Split işlemini gerçekleştirdikten sonra <strong>87habythi15ng151.php </strong>md5e çevirmek kalıyordu.
 
 <strong>Flag : 28833db32bb4def17138de776fe2156a</strong>
+=======
+# Siber-Yildiz-Hazirlik-Sorulari
+>>>>>>> a2335cf813abf341105ea0e131b8dcc53d04a073
